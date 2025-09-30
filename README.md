@@ -3,7 +3,7 @@ This repository hosts the project “Classification of Microplastics using Hyper
 
 Two notebooks are available:
 
-Notebook 1: Project_02072025.ipynb which includes: 
+Notebook 1: EDA_Training.ipynb which includes: 
 
   1. Data preprocessing and segmentation
   2. Feature extraction and dataset construction
