@@ -1,5 +1,5 @@
 # Classification-of-Microplastics-using-Hyperspectral-Imagery
-The code submitted to compliment the dissertation with the title 'Classification of Microplastics using Hyperspectral Imagery'
+This repository hosts the project “Classification of Microplastics using Hyperspectral Imagery”, which investigates the use of machine learning techniques applied to hyperspectral images (400–1000 nm) for classifying microplastics according to their polymer type.
 
 Two notebooks are available:
 
